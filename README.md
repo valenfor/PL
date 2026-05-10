@@ -1,6 +1,6 @@
-# PropertyLinker MVP
+# Property 
 
-Demo web de validación temprana. Captura preferencias, willingness to pay y comportamiento de usuarios en el mercado inmobiliario de nuevos desarrollos.
+Demo.
 
 ---
 
